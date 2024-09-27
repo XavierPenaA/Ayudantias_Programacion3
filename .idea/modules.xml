@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ayudantias_Programacion3.iml" filepath="$PROJECT_DIR$/.idea/Ayudantias_Programacion3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TALLER1/Taller1_1.1/Taller1_1.1.iml" filepath="$PROJECT_DIR$/TALLER1/Taller1_1.1/Taller1_1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TALLER1/Taller1_2/Taller1_2.iml" filepath="$PROJECT_DIR$/TALLER1/Taller1_2/Taller1_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TALLER1/Taller1_3/Taller1_3.iml" filepath="$PROJECT_DIR$/TALLER1/Taller1_3/Taller1_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TALLER1/Talller1_1.2/Talller1_1.2.iml" filepath="$PROJECT_DIR$/TALLER1/Talller1_1.2/Talller1_1.2.iml" />
+    </modules>
+  </component>
+</project>
