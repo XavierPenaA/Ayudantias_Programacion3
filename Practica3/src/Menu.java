@@ -4,7 +4,6 @@ import javax.swing.JOptionPane;
 public class Menu {
 
     Text userText = new Text();
-    Scanner input = new Scanner(System.in);
 
     public void show() {
 
@@ -12,40 +11,37 @@ public class Menu {
         int opc;
 
         do {
-            opc = (int) JOptionPane.showOptionDialog(null, userText.toString()+"\nClick an option", "Text Editor",JOptionPane.DEFAULT_OPTION,JOptionPane.WARNING_MESSAGE,null,options,options[0]);
+            opc = (int) JOptionPane.showOptionDialog(null, userText.toString()+"\nClick an option", "String Editor",JOptionPane.DEFAULT_OPTION,JOptionPane.WARNING_MESSAGE,null,options,options[0]);
 
             switch (opc) {
 
                 case 0:
-                    option1();
+                    option0();
                     break;
                 case 1:
-                    option2();
+                    option1();
                     break;
                 case 2:
-                    option3();
+                    option2();
                     break;
                 case 3:
-                    option5();
+                    option3();
                     break;
             }
         } while (opc!=3);
     }
 
-    private void option1() {
+    private void option0() {
         String newText = JOptionPane.showInputDialog("Enter your text");
         userText.addText(newText);
     }
-    private void option2() {
+    private void option1() {
         userText.undo();
     }
-    private void option3() {
+    private void option2() {
         userText.redo();
     }
-    private void option4() {
-        JOptionPane.showMessageDialog(null, userText.toString());
-    }
-    private void option5() {
+    private void option3() {
         JOptionPane.showMessageDialog(null, "Closing");
     }
 }
