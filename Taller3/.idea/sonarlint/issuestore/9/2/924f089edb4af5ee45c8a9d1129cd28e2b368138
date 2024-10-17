@@ -1,0 +1,24 @@
+
+V
+java:S1220""Move this file to a named package.J$ff62da48-9526-4e53-8994-ff8ef19d7bb5
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(©•μ―ωÿÿÿÿ8Νέκµ©2
+l
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(΅ωª28Νέκµ©2
+F	java:S106"+Replace this use of System.out by a logger.(Ν΅¶O8Χέκµ©2
+L	java:S106"+Replace this use of System.out by a logger.(ϊΊΦύÿÿÿÿ8Χέκµ©2
+L	java:S106"+Replace this use of System.out by a logger.(¦σρÿÿÿÿÿ8Χέκµ©2
+L	java:S106"+Replace this use of System.out by a logger.(»Ϊ’ύÿÿÿÿ8Χέκµ©2
+L	java:S106"+Replace this use of System.out by a logger.(«Τ©Δψÿÿÿÿ8Χέκµ©2
+L	java:S106"+Replace this use of System.out by a logger.(Ύ€Ήϊÿÿÿÿ8Χέκµ©2
+G	java:S106"+Replace this use of System.out by a logger.(Χ―»β8Χέκµ©2
+G	java:S106"+Replace this use of System.out by a logger.(¶²Τώ8Χέκµ©2
+L	java:S106("+Replace this use of System.out by a logger.(ή‡ϋ ύÿÿÿÿ8αέκµ©2
+G	java:S106+"+Replace this use of System.out by a logger.(·ƒι°8αέκµ©2
+G	java:S1066"+Replace this use of System.out by a logger.(ΐ¨§8αέκµ©2
+G	java:S106="+Replace this use of System.out by a logger.(Òά8αέκµ©2
+L	java:S106?"+Replace this use of System.out by a logger.( ΦΘ«ωÿÿÿÿ8αέκµ©2
+L	java:S106G"+Replace this use of System.out by a logger.(¶¶ΛΧύÿÿÿÿ8λέκµ©2
+L	java:S106I"+Replace this use of System.out by a logger.(Υ‘ώÿÿÿÿ8λέκµ©2
+G	java:S106N"+Replace this use of System.out by a logger.(εαΞ8λέκµ©2
+L	java:S106O"+Replace this use of System.out by a logger.(γ“ΕΝώÿÿÿÿ8λέκµ©2
